@@ -1,0 +1,59 @@
+h2,p {
+ font-family: 'Work Sans', sans-serif;   
+}
+
+html, body {
+    background-color: #fcfcfc;
+     margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+
+.myImage img {
+    width: 210px;
+}
+
+.myStuff span {
+    display: block;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500 !important;
+    padding-bottom: 18px;
+}
+
+.myStuff span,b {
+    font-weight: 700;
+    font-size: 16px;
+    color: #3d3d3d;
+}
+
+.myStuff span,a {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.myStuff a {
+    color: #377BB5;
+}
+
+.myStuff a:hover {
+    color: #265781;
+}
+
+.mainContainer {
+ display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.aboutText h2 {
+    font-size: 38px;
+    margin-bottom: 12px;
+}
+
+.aboutText p {
+    font-size: 18px;  
+    margin-top: 0px;
+}
