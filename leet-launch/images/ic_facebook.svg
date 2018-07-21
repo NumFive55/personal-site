@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Leet---Launch-Site-v4" transform="translate(-712.000000, -2957.000000)">
+            <g id="Group-2" transform="translate(608.000000, 2957.000000)">
+                <g id="ic_facebook" transform="translate(104.000000, 0.000000)">
+                    <circle id="bg" fill="#3B5998" cx="40" cy="40" r="40"></circle>
+                    <path d="M49.706032,41.1056158 L43.2121461,41.1056158 L43.2121461,58 L36.5956504,58 L36.5956504,41.1056158 L32,41.1056158 L32,35.0261646 L36.5956504,35.0261646 L36.5956504,29.832642 C36.5956504,25.7490428 39.3093147,22 45.56389,22 C48.0958556,22 49.967501,22.2383535 49.967501,22.2383535 L49.8197784,27.9143267 C49.8197784,27.9143267 47.9097251,27.8970964 45.8268363,27.8970964 C43.571112,27.8970964 43.2106689,28.9065093 43.2106689,30.5835992 L43.2106689,30.8693363 L43.2106689,35.0261646 L50,35.0261646 L49.706032,41.1056158 L49.706032,41.1056158 Z" id="f" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
